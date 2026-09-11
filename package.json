@@ -1,0 +1,21 @@
+{
+  "name": "conectati-senac",
+  "version": "1.0.0",
+  "description": "Sistema de chamados de manutencao com backend Spring Boot e frontend React/Vite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caio583/conectati.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/caio583/conectati/issues"
+  },
+  "homepage": "https://github.com/caio583/conectati#readme"
+}
